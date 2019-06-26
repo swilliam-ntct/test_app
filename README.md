@@ -1,1 +1,1 @@
-# test_app
+Sample test app
